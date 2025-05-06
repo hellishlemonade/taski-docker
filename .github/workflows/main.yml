@@ -5,7 +5,7 @@ on:
     branches:
       - main
 
-jobs:
+  jobs:
   tests:
     # Разворачиваем окружение:
     runs-on: ubuntu-latest
